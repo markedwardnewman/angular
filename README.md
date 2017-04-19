@@ -1,5 +1,5 @@
 # AngularJS Phone Catalog Application
-###[Live Demo](https://morning-lowlands-91358.herokuapp.com)
+### [Live Demo](https://morning-lowlands-91358.herokuapp.com)
 
 - This app is a catalog that displays a list of Android devices, lets you filter the list to see only devices that interest you, and then view the details for any device.  Built from the ground-up, it is a slightly modified version of an advanced Angular tutorial found [here](https://angularjs.org/).
 - Once I had it working I deployed it to Heroku following the steps shown [here](http://linqed.eu/2014/10/07/deploying-angular-seed-to-heroku/).
@@ -59,12 +59,4 @@ $ npm install
         servicesSpec.js    --> specs for services
 
 ## Contact
-###Mark Newman - Front End Web Developer
-
-**Portfolio:** [markedwardnewman.com](http://markedwardnewman.com "markedwardnewman.com")
-
-**Location:** Austin, TX, United States
-
-**Email:** markedwardnewman@gmail.com
-
-**Download:** [résumé](http://www.markedwardnewman.com/assets/other/misc/MarkNewmanResume.docx)
+### [Mark Newman - Front End Web Developer](https://github.com/markedwardnewman/markedwardnewman.github.io)
