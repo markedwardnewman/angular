@@ -1,8 +1,9 @@
 # AngularJS Phone Catalog Application
 ### [Live Demo](https://morning-lowlands-91358.herokuapp.com)
 
-- This app is a catalog that displays a list of Android devices, lets you filter the list to see only devices that interest you, and then view the details for any device.  Built from the ground-up, it is a slightly modified version of an advanced Angular tutorial found [here](https://angularjs.org/).
-- Once I had it working I deployed it to Heroku following the steps shown [here](http://linqed.eu/2014/10/07/deploying-angular-seed-to-heroku/).
+- This is the defacto tutorial used to learn the basics of AngularJS, as found [here](https://angularjs.org/). I have since dedicated most of my "javascript framework learning time" to learning TypeScript and Angular2. Boom!
+- The app is a catalog that displays a list of Android devices, lets you filter the list to see only devices that interest you, and then view the details for any device.
+- Understanding the basics and getting it to work was easy enough. Getting it to work on Heroku wasn't as straight forward. See it up and running [here](http://linqed.eu/2014/10/07/deploying-angular-seed-to-heroku/).
 
 ## Workings of the application
 - The application filesystem layout structure is based on the [angular-seed] project.
